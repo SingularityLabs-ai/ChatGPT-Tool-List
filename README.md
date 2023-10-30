@@ -27,5 +27,9 @@
 
 - [Discord bot by Zero6992]https://github.com/Zero6992/chatGPT-discord-bot
 
+#### ChatGPT Voice
+
+- [ChatGPT Voice Conversation by platelminto]https://github.com/platelminto/chatgpt-conversation
+
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
