@@ -6,6 +6,7 @@
 
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
+- [Python Client]https://github.com/rawandahmad698/PyChatGPT
 
 #### JS/TS
 
@@ -26,6 +27,7 @@
 #### Discord
 
 - [Discord Bot by Zero6992]https://github.com/Zero6992/chatGPT-discord-bot
+- [Discord Bot by ausbitbank]https://github.com/ausbitbank/ChatGPTDiscord
 
 #### Slack
 
