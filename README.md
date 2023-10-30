@@ -25,7 +25,11 @@
 
 #### Discord
 
-- [Discord bot by Zero6992]https://github.com/Zero6992/chatGPT-discord-bot
+- [Discord Bot by Zero6992]https://github.com/Zero6992/chatGPT-discord-bot
+
+#### Slack
+
+- [Slack Bot by pedrorito]https://github.com/pedrorito/ChatGPTSlackBot
 
 #### ChatGPT Voice
 
