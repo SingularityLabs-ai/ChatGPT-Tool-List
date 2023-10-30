@@ -31,6 +31,14 @@
 
 - [Slack Bot by pedrorito]https://github.com/pedrorito/ChatGPTSlackBot
 
+#### Telegram
+
+- [Telegram Bot by Klingefjord]https://github.com/Klingefjord/chatgpt-telegram
+
+#### Alexa
+
+- [Alexa Skill by paulotruta]https://github.com/paulotruta/jee-pee-tee
+
 #### ChatGPT Voice
 
 - [ChatGPT Voice Conversation by platelminto]https://github.com/platelminto/chatgpt-conversation
