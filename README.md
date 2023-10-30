@@ -3,8 +3,9 @@
 ### API
 
 #### Python
-	- [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
-	- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
+
+- [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
+- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 
 #### JS/TS
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
