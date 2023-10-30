@@ -34,6 +34,7 @@
 #### Telegram
 
 - [Telegram Bot by Klingefjord]https://github.com/Klingefjord/chatgpt-telegram
+- [Telegram Bot by franalgaba(serverless)]https://github.com/franalgaba/chatgpt-telegram-bot-serverless
 
 #### Alexa
 
