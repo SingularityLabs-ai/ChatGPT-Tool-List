@@ -458,6 +458,14 @@
 - [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 
 
+### Self-hosted
+
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - Read and summarize academic papers.
+- [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
+- [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
+- [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
+
 ## Research, Papers & Articles
 
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
