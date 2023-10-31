@@ -5,6 +5,7 @@
 #### Python
 
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
+- [Unofficial Multisession API in Python](https://github.com/shiyemin/ChatGPT-MS)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Python Client](https://github.com/rawandahmad698/PyChatGPT)
 
