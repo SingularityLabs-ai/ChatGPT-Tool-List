@@ -38,6 +38,7 @@
 #### Slack
 
 - [Slack Bot by pedrorito](https://github.com/pedrorito/ChatGPTSlackBot)
+- [Slack Bot by sanzgiri](https://github.com/sanzgiri/chatgpt_slackbot)
 
 #### Telegram
 
