@@ -160,6 +160,25 @@
 #### Python
 
 - [Botframework by nonebot]https://github.com/nonebot/nonebot2
+
+### Reverse Proxy
+
+- [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
+
+
+### Competitive Programming
+
+- [Competitive Programming Helper](https://github.com/ishandutta2007/chatgpt-competitive-programming-extension)
+
+### CLI tools
+
+- [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
+- [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
+- [Assistant CLI](https://github.com/diciaup/assistant-cli)
+- [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
+- [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
+- [llmcli](https://github.com/talwrii/llmcli)
+
 ---------------------------------------------------------------------------------------------------------
 ## Code Editors/IDEs
 
@@ -283,15 +302,6 @@
 
 - [SoloMReal / PictureToAnswer](https://github.com/SoloMReal/PictureToAnswer)
 
-### CLI tools
-
-- [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
-- [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
-- [Assistant CLI](https://github.com/diciaup/assistant-cli)
-- [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
-- [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
-- [llmcli](https://github.com/talwrii/llmcli)
-
 ### Google Docs
 
 - [docGPT](https://github.com/cesarhuret/docGPT)
@@ -386,15 +396,6 @@
 - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
-
-### Reverse Proxy
-
-- [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
-
-
-### Programming
-
-- [Competitive Programming](https://github.com/ishandutta2007/chatgpt-competitive-programming-extension)
 
 
 ### Prompt
