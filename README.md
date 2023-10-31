@@ -178,6 +178,11 @@
 
 - [gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 
+
+### Raycast
+
+- [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
+
 ---------------------------------------------------------------------------------------------------------
 
 ## Browser Extensions
