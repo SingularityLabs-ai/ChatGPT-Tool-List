@@ -161,11 +161,17 @@
 
 - [Botframework by nonebot]https://github.com/nonebot/nonebot2
 ---------------------------------------------------------------------------------------------------------
+## Code Editors/IDEs
+
 ### VSCode
 
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode): A VSCode extension that allows you to use ChatGPT
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
+
+### JetBrains IDE
+
+- [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for IntelliJ Platform-Based IDEs
 ---------------------------------------------------------------------------------------------------------
 
 ## Browser Extensions
