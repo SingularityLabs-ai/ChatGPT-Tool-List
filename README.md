@@ -139,17 +139,28 @@
 #### PHP
 
 - [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
+---------------------------------------------------------------------------------------------------------
 
-#### Neo.vim
 
+### Integrations
+
+#### Terminal
+
+- [ai-cli](https://github.com/abhagsain/ai-cli): Get answers for CLI commands from GPT3 right from your terminal
+- [CommitAssist](https://github.com/dejorrit/commit-assist): Auto generate commit messages using ChatGPT
+
+#### NeoVim
+
+- [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim): Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 - [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
+---------------------------------------------------------------------------------------------------------
 
 ### Framework
 
 #### Python
 
 - [Botframework by nonebot]https://github.com/nonebot/nonebot2
-
+---------------------------------------------------------------------------------------------------------
 
 
 ## Browser Extensions
@@ -188,7 +199,7 @@
 ## Bookmarklets
 
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
-
+---------------------------------------------------------------------------------------------------------
 
 ### Discord
 
@@ -213,6 +224,7 @@
 
 ### Email 
 - [Email](https://github.com/lucasmccabe/emailGPT)
+---------------------------------------------------------------------------------------------------------
 
 ### Alexa
 
