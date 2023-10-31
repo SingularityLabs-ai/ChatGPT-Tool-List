@@ -92,6 +92,10 @@
 
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 
+#### Kotlin
+
+- [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+
 #### Neo.vim
 
 - [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
