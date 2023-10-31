@@ -237,6 +237,10 @@
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 
+### LINE
+
+- [chatGPT-LINE-bot](https://github.com/ctjoy/chatgpt-line-bot-serverless): A ChatGPT LINE bot based on Python and Serverless Framework.
+
 ### Discord
 
 - [Discord Bot by Zero6992](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
