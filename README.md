@@ -201,6 +201,11 @@
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 ---------------------------------------------------------------------------------------------------------
 
+### WhatsApp
+
+- [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+- [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+
 ### Discord
 
 - [Discord Bot by Zero6992](https://github.com/Zero6992/chatGPT-discord-bot)
