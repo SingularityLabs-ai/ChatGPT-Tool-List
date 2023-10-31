@@ -163,7 +163,6 @@
 
 - [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
 
-
 ### Competitive Programming
 
 - [Competitive Programming Helper](https://github.com/ishandutta2007/chatgpt-competitive-programming-extension)
@@ -176,6 +175,27 @@
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [llmcli](https://github.com/talwrii/llmcli)
+
+### DevOps
+
+- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+- [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
+
+### Cybersecurity
+
+- [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
+- [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
+
+### Emacs
+
+- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
+
+## Embeddings/Vector Databases
+
+- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
+- [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+- [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
 
 ---------------------------------------------------------------------------------------------------------
 ## Code Editors/IDEs
@@ -240,6 +260,8 @@
 
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 ---------------------------------------------------------------------------------------------------------
+
+## Social Media
 
 ### WhatsApp
 
@@ -308,7 +330,10 @@
 
 - [gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)
 
-### Search
+---------------------------------------------------------------------------------------------------------
+## Search
+
+### Google
 
 - [Connecting Bard, ChatGPT with the Internet](https://github.com/SingularityLabs-ai/beyond-bard-mini)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
@@ -325,27 +350,7 @@
 
 - [youtube-autoreply](https://github.com/sheldonchiu/chatgpt-youtube-autoreply)
 
-### DevOps
-
-- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
-- [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
-- [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
-
-### Cybersecurity
-
-- [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
-- [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
-
-### Emacs
-
-- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
-
-## Embeddings/Vector Databases
-
-- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
-- [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
-- [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
-
+---------------------------------------------------------------------------------------------------------
 ## Plugins Store
 
 - [getit.ai](https://www.getit.ai/gpt-plugins): open plugin store for easy plugin installs.
