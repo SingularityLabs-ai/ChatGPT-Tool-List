@@ -132,6 +132,10 @@
 - [ruby-openai](https://github.com/alexrudall/ruby-openai): Unofficial Ruby library to generate text with ChatGPT, transcribe and translate audio with Whisper, or create images with DALL·E
 
 
+#### Delphi
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI): OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
+
+
 #### PHP
 
 - [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
