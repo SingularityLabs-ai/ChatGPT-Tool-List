@@ -59,6 +59,10 @@
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 
 
+### Google Docs
+
+- docGPT(https://github.com/cesarhuret/docGPT)
+
 ### Search
 
 - [Connecting Bard, ChatGPT with the Internet](https://github.com/SingularityLabs-ai/beyond-bard-mini)
