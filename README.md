@@ -90,6 +90,12 @@
 
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
+
+### Reverse Proxy
+
+- [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
+
+
 ### Programming
 
 - [Competitive Programming] https://github.com/ishandutta2007/chatgpt-competitive-programming-extension
