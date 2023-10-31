@@ -6,11 +6,12 @@
 
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
-- [Python Client]https://github.com/rawandahmad698/PyChatGPT
+- [Python Client](https://github.com/rawandahmad698/PyChatGPT)
 
 #### JS/TS
 
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
+- [Unofficial API in JS/TS](https://github.com/SpecialAgency-Chat/TChatGPT)
 
 #### Dart
 
@@ -22,34 +23,35 @@
 
 #### Neo.vim
 
-- [Unofficial Interface in neovim]https://github.com/terror/chatgpt.nvim
+- [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
 
 #### Discord
 
-- [Discord Bot by Zero6992]https://github.com/Zero6992/chatGPT-discord-bot
-- [Discord Bot by ausbitbank]https://github.com/ausbitbank/ChatGPTDiscord
+- [Discord Bot by Zero6992](https://github.com/Zero6992/chatGPT-discord-bot)
+- [Discord Bot by ausbitbank](https://github.com/ausbitbank/ChatGPTDiscord)
 
 #### Slack
 
-- [Slack Bot by pedrorito]https://github.com/pedrorito/ChatGPTSlackBot
+- [Slack Bot by pedrorito](https://github.com/pedrorito/ChatGPTSlackBot)
 
 #### Telegram
 
-- [Telegram Bot by Klingefjord]https://github.com/Klingefjord/chatgpt-telegram
-- [Telegram Bot by franalgaba(serverless)]https://github.com/franalgaba/chatgpt-telegram-bot-serverless
+- [Telegram Bot by Klingefjord](https://github.com/Klingefjord/chatgpt-telegram)
+- [Telegram Bot by franalgaba(serverless)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot)
+- [Telegram Bot by n3d1117](https://github.com/n3d1117/chatgpt-telegram-bot)
 
 #### Alexa
 
-- [Alexa Skill by paulotruta]https://github.com/paulotruta/jee-pee-tee
+- [Alexa Skill by paulotruta](https://github.com/paulotruta/jee-pee-tee)
 
 #### ChatGPT Voice
 
-- [ChatGPT Voice Conversation by platelminto]https://github.com/platelminto/chatgpt-conversation
+- [ChatGPT Voice Conversation by platelminto](https://github.com/platelminto/chatgpt-conversation)
 
 #### Image to Text
 
-- [SoloMReal / PictureToAnswer]https://github.com/SoloMReal/PictureToAnswer
+- [SoloMReal / PictureToAnswer](https://github.com/SoloMReal/PictureToAnswer)
 
 ### CLI tools
 
@@ -66,7 +68,6 @@
 ### Powerpoint
 
 - [gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)
-
 
 ### Search
 
