@@ -121,5 +121,8 @@
 
 ### Programming
 
-- [Competitive Programming] https://github.com/ishandutta2007/chatgpt-competitive-programming-extension
+- [Competitive Programming](https://github.com/ishandutta2007/chatgpt-competitive-programming-extension)
 
+
+### Prompt
+- [ChatGPT and MidJourney prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
