@@ -110,6 +110,14 @@
 
 - [JPT-PRoomy](https://github.com/Zizwar/PRoomy): ChatGPT Rooms with Custom AI Bots: Minimal template. It uses Fresh, Supabase, twind, BroadcastChannel API, OpenAI API on Deno Deploy.
 
+#### Dart
+
+- [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart): Dart client for the unofficial ChatGPT API
+- [OpenAI API Dart](https://github.com/anasfik/openai): Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e, Whisper..)
+- [openai_client](https://github.com/Azzeccagarbugli/openai_client): An unofficial, platform independent, client for accessing different AI models developed by OpenAI
+- [chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter): ChatGPT API implemented in Flutter
+- [flutter_chatgpt_api](https://pub.dev/packages/flutter_chatgpt_api): This package is a Flutter/Dart API around ChatGPT by OpenAI.
+
 
 #### PHP
 
