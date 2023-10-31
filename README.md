@@ -42,6 +42,10 @@
 - [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot)
 - [Telegram Bot by n3d1117](https://github.com/n3d1117/chatgpt-telegram-bot)
 
+### Twitter
+
+- [Twitter Bot](https://github.com/Pab450/ana)
+
 #### Alexa
 
 - [Alexa Skill by paulotruta](https://github.com/paulotruta/jee-pee-tee)
