@@ -8,7 +8,8 @@
 - [Unofficial Multisession API in Python](https://github.com/shiyemin/ChatGPT-MS)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Python Client](https://github.com/rawandahmad698/PyChatGPT)
-
+- [GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache to store responses from LLM queries.
+- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from information sources.
 - [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): Zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more (Current State: Not maintained.)
 - [README-AI](https://github.com/eli64s/readme-ai): Command-line tool for crafting aesthetic, structured, and informative README.md files, powered by OpenAI's language model API.
@@ -69,7 +70,9 @@
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 - [AI Legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
 - [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template): Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
-
+- [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
+- [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 
 #### Java
 
@@ -93,6 +96,9 @@
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Diagnosing web app log errors with ChatGPT.
+- [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+
 
 #### Rust
 
@@ -106,6 +112,7 @@
 #### Swift
 
 - [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
+- [Swift](https://github.com/adamrushy/OpenAISwift)
 
 #### Deno
 
@@ -132,11 +139,14 @@
 
 #### Delphi
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI): OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
+- [Delphi](https://github.com/HemulGM/DelphiOpenAI)
 
 
 #### PHP
 
 - [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
+- [PHP](https://github.com/openai-php/client)
+
 ---------------------------------------------------------------------------------------------------------
 
 
@@ -162,6 +172,9 @@
 ### Reverse Proxy
 
 - [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
+- [Reverse Proxy by PawanOsman](https://github.com/PawanOsman/ChatGPT)
+- [Reverse Proxy by rpdg](https://github.com/rpdg/py-proxy-ChatGPT)
+- [Reverse Proxy by BerriAI](https://github.com/BerriAI/litellm#openai-proxy-server)
 
 ### Competitive Programming
 
@@ -288,7 +301,7 @@
 
 - [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
-
+- [Chat Bling](https://chatbling.net) - WhatsApp bot.
 
 ### WeChat
 
@@ -307,20 +320,25 @@
 - [Discord Bot by ausbitbank](https://github.com/ausbitbank/ChatGPTDiscord)
 - [ChatGPT3Discord](https://github.com/Kav-K/GPT3Discord): A robust OpenAI integration for discord with ChatGPT queries, conversations, ChatGPT-assisted google search, document indexing, and more!
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord): Run your own GPTChat Discord bot, with a single command!
+- [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) - Discord bot.
+- [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Discord bot.
 
 
 ### Slack
 
 - [Slack Bot by pedrorito](https://github.com/pedrorito/ChatGPTSlackBot): A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
 - [Slack Bot by sanzgiri](https://github.com/sanzgiri/chatgpt_slackbot)
+- [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot.
+- [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - Slack bot.
 
 ### Telegram
 
 - [Telegram Bot by Klingefjord](https://github.com/Klingefjord/chatgpt-telegram)
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command!
 - [Telegram Bot by franalgaba(serverless)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda
-- [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot)
+- [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 - [Telegram Bot by n3d1117](https://github.com/n3d1117/chatgpt-telegram-bot)
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
 
 
 ### Twitter
@@ -328,10 +346,13 @@
 - [Twitter Bot](https://github.com/Pab450/ana)
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
 
-
-## Mastodon Bots
-
+### Mastodon Bots
 - [chatGPToot](https://github.com/skullzarmy/chatGPToot): Mastodon bot powered by OpenAI APIs including ChatGPT and DALL-E.
+
+### Github
+- [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions bot.
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions bot.
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
 
 ### Email 
 - [Email](https://github.com/lucasmccabe/emailGPT)
@@ -368,10 +389,12 @@
 ### DuckDuckGo
 
 - [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 
 ### Brave Search
 
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
 
 ### Youtube
 
@@ -498,6 +521,8 @@
 - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
+- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/) - Learn how to build an app that enables users to improve their writing by rephrasing text.
+- [Stream data from ChatGPT with JavaScript](https://umaar.com/dev-tips/269-web-streams-openai/) - Learn how to consume streaming data from ChatGPT using vanilla JavaScript.
 
 
 ### User scripts
@@ -519,6 +544,80 @@
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
+
+**Bookmarklets**
+
+- [Conversation Saving](https://github.com/jcubic/chat-gpt) - Save your ChatGPT conversation.
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - Export ChatGPT conversations to Markdown files.
+
+## CLI tools
+
+- [Assistant CLI](https://github.com/diciaup/assistant-cli) - Use ChatGPT from the command-line.
+- [SearchGPT](https://github.com/tobiasbueschel/search-gpt) - Connect ChatGPT with the Internet.
+- [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT.
+- [CLI for ChatGPT](https://github.com/j178/chatgpt) - Interactive interface for ChatGPT.
+- [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Automatically generate PowerPoint presentations.
+- [StackExplain](https://github.com/shobrook/stackexplain) - Have your error messages explained in plain English.
+- [clevercli](https://github.com/clevercli/clevercli) - ChatGPT-powered command-line utilities.
+- [README-AI](https://github.com/eli64s/README-AI) - Automatically generate README files.
+- [aicommits](https://github.com/Nutlope/aicommits) - Automatically generate Git commit messages.
+- [happycommit](https://github.com/jackbackes/happycommit) - Automatically generate Git commit messages.
+- [commit-assist](https://github.com/dejorrit/commit-assist) - Automatically generate Git commit messages.
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - Automatically generate Git commit messages.
+- [ai-commit](https://github.com/guanguans/ai-commit) - Automatically generate conventional Git commit messages.
+- [gptcommit](https://github.com/zurawiki/gptcommit) - Git hook for authoring commit messages.
+- [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
+- [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
+- [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
+- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
+- [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
+- [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
+- [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
+
+## Bots
+
+- [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
+
+
+## Integrations
+
+- [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Raycast extension.
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension.
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - VSCode extension.
+- [org-ai](https://github.com/rksm/org-ai) - Emacs org-mode.
+- [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) - Vim plugin.
+- [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin.
+- [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) - Jetbrains plugin.
+- [DocGPT](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252) - Writing assistant for Google Docs.
+- [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT in Google Docs.
+- [SlidesAI](https:/www.slidesai.io) - Create AI-powered presentations in Google Slides.
+- [WordGPT](https://github.com/filippofinke/WordGPT) - Use ChatGPT in Microsoft Word.
+- [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
+- [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
+- [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
+- [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
+- [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
+- [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
+- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
+- [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
+- [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
+- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
+
+
+## Community
+
+- [Reddit](https://www.reddit.com/r/ChatGPT/)
+- [Discord](https://discord.com/invite/openai)
+
+## Related lists
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt curation.
+- [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper is an AI-powered speech recognition system.
+
 
 ## Star History
 
