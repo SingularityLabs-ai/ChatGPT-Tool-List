@@ -413,6 +413,41 @@
 - [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
 
 
+## Web apps
+
+### Hosted and self-hosted
+
+- [ShareGPT](https://github.com/domeccleston/sharegpt) - Share permanent links to ChatGPT conversations.
+- [Anse](https://github.com/anse-app/anse) - Alternative ChatGPT web UI.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Alternative ChatGPT web UI.
+- [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - Alternative ChatGPT web UI.
+- [roomGPT](https://github.com/Nutlope/roomGPT) - Generate your dream room.
+- [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation assistant.
+- [promptsandbox](https://github.com/eg9y/promptsandbox.io) - Visual programming tool for experimenting with ChatGPT.
+- [Adrenaline](https://github.com/shobrook/adrenaline/) - Talk to your codebase.
+- [DeepWrite AI](https://github.com/simplysabir/AI-Writing-Assistant) - Blog post generator.
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) - Open-source ChatGPT web app with a voice.
+- [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language model based chatbots.
+- [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - Search and chat on your Kindle highlights.
+- [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) - Generate ESLint rules from example code.
+- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
+- [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database).
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
+- [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
+- [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
+- [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
+- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
+- [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+- [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
+- [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Personalized ChatGPT AI chatbot.
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
+- [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
+- [CometLLM](https://github.com/comet-ml/comet-llm) - Open-source UI to log, visualize, and search your prompts, chains, and prompt variables.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
+
+
 ## Research, Papers & Articles
 
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
