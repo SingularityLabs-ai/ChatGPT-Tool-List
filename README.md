@@ -9,7 +9,6 @@
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Python Client](https://github.com/rawandahmad698/PyChatGPT)
 
-
 - [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): Zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more (Current State: Not maintained.)
 - [README-AI](https://github.com/eli64s/readme-ai): Command-line tool for crafting aesthetic, structured, and informative README.md files, powered by OpenAI's language model API.
@@ -94,7 +93,6 @@
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
-
 
 #### Rust
 
