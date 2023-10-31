@@ -50,6 +50,9 @@
 
 - [Twitter Bot](https://github.com/Pab450/ana)
 
+### Email 
+- [Email](https://github.com/lucasmccabe/emailGPT)
+
 #### Alexa
 
 - [Alexa Skill by paulotruta](https://github.com/paulotruta/jee-pee-tee)
