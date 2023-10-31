@@ -65,6 +65,15 @@
 #### Go
 
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
+- [openaigo](https://github.com/otiai10/openaigo): OpenAI (ChatGPT) API Client for Go
+- [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+- [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework low code, extremely easy to configure by yaml
+- [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
+- 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
+- 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
+
 
 #### Neo.vim
 
