@@ -101,6 +101,11 @@
 
 - [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
 
+
+#### PHP
+
+- [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
+
 #### Neo.vim
 
 - [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
