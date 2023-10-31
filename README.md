@@ -305,6 +305,12 @@
 ### Twitter
 
 - [Twitter Bot](https://github.com/Pab450/ana)
+- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
+
+
+## Mastodon Bots
+
+- [chatGPToot](https://github.com/skullzarmy/chatGPToot): Mastodon bot powered by OpenAI APIs including ChatGPT and DALL-E.
 
 ### Email 
 - [Email](https://github.com/lucasmccabe/emailGPT)
@@ -377,13 +383,6 @@
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
 
-## Twitter Bots
-
-- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
-
-## Mastodon Bots
-
-- [chatGPToot](https://github.com/skullzarmy/chatGPToot): Mastodon bot powered by OpenAI APIs including ChatGPT and DALL-E.
 
 ## Research, Papers & Articles
 
