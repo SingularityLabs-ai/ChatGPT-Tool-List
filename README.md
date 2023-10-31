@@ -106,6 +106,10 @@
 
 - [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
 
+#### Deno
+
+- [JPT-PRoomy](https://github.com/Zizwar/PRoomy): ChatGPT Rooms with Custom AI Bots: Minimal template. It uses Fresh, Supabase, twind, BroadcastChannel API, OpenAI API on Deno Deploy.
+
 
 #### PHP
 
