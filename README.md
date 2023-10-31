@@ -75,6 +75,9 @@
 #### Java
 
 - [Unofficial API in Java](https://github.com/PlexPt/chatgpt-java)
+- [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
+- [chatgpt-java](https://github.com/PlexPt/chatgpt-java): ChatGPT Java SDK. Uses reverse engineered official API.
+
 
 #### Dart
 
