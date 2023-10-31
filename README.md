@@ -96,6 +96,11 @@
 
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 
+
+#### Swift
+
+- [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
+
 #### Neo.vim
 
 - [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
