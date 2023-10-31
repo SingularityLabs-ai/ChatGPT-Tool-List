@@ -53,6 +53,19 @@
 - [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
 - [gpt-json](https://github.com/KLaci/gpt-json): Node.js library to get structured responses from OpenAI's APIs
 - [Embedchain-JS](https://github.com/embedchain/embedchainjs): Framework to create ChatGPT like bots over your dataset.
+- [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
+- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
+- [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
+- [askai](https://github.com/yudax42/askai): Command Line Interface for OpenAi ChatGPT
+- [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official): ChatGPT Client using official OpenAI API
+- [chatgpt-io](https://github.com/PawanOsman/chatgpt-io): Unofficial API client for ChatGPT
+- [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
+- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview): A code review bot powered by ChatGPT
+- 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
+- [AI Legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
+- [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template): Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
+
 
 #### Java
 
