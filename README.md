@@ -75,6 +75,10 @@
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
 
 
+#### Rust
+
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+
 #### Neo.vim
 
 - [Unofficial Interface in neovim](https://github.com/terror/chatgpt.nvim)
