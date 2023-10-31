@@ -305,6 +305,14 @@
 - [Connecting Bard, ChatGPT with the Internet](https://github.com/SingularityLabs-ai/beyond-bard-mini)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 
+### DuckDuckGo
+
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+
+### Brave Search
+
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+
 ### Youtube
 
 - [youtube-autoreply](https://github.com/sheldonchiu/chatgpt-youtube-autoreply)
@@ -336,4 +344,7 @@
 
 
 ### Prompt
+
 - [ChatGPT and MidJourney prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
+
