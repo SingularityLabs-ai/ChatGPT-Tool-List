@@ -9,6 +9,37 @@
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Python Client](https://github.com/rawandahmad698/PyChatGPT)
 
+
+- [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API
+- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): Zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more (Current State: Not maintained.)
+- [README-AI](https://github.com/eli64s/readme-ai): Command-line tool for crafting aesthetic, structured, and informative README.md files, powered by OpenAI's language model API.
+- [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+- [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper): API for interacting with ChatGPT using Python and from Shell.
+- [chatgpt-dev-friendly-wrapper](https://github.com/codeastra2/ChatGPTDevFriendly): Pip package over the ChatGPT Official API for more API robustness, metrics and easier development.
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
+- [chatGPT-LINE-bot](https://github.com/ctjoy/chatgpt-line-bot-serverless): A ChatGPT LINE bot based on Python and Serverless Framework.
+- [chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
+- [TextRL](https://github.com/voidful/TextRL): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
+- [stackexplain](https://github.com/shobrook/stackexplain): Explain your error message with ChatGPT
+- [gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+- [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
+- [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on
+- [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
+- [PyGPT](https://github.com/PawanOsman/PyGPT): Python implementation of Unofficial ChatGPT Client
+- [chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-base
+  APIs
+- 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For gram
+- 🇨🇳 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
+- 🇨🇳 [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
+- 🇨🇳 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
+- 🇨🇳 [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
+- 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
+- [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts on top of Langchain documenentation tree
+- [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
+
+
 #### JS/TS
 
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
