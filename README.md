@@ -73,6 +73,7 @@
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
+- [llmcli](https://github.com/talwrii/llmcli)
 
 ### Google Docs
 
