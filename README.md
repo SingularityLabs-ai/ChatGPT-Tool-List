@@ -417,9 +417,7 @@
 </style>
 
 
-# My GitHub README
-
-Welcome to my README!
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 <section class="level-3" style="padding-left:'135px';">
 
