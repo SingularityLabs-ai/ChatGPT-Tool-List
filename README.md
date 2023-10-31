@@ -183,6 +183,7 @@
 
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 
+
 ---------------------------------------------------------------------------------------------------------
 
 ## Browser Extensions
@@ -227,6 +228,14 @@
 
 - [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+
+
+### WeChat
+
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
+- 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
+- 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
+- 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 
 ### Discord
 
