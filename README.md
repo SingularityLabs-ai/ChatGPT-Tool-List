@@ -122,6 +122,10 @@
 - [flutter_chatgpt_api](https://pub.dev/packages/flutter_chatgpt_api): This package is a Flutter/Dart API around ChatGPT by OpenAI.
 
 
+#### .NET
+
+- [ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net): Unofficial .Net Client for ChatGPT
+
 #### PHP
 
 - [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
