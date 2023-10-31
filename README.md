@@ -387,8 +387,6 @@
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
-<section class="level-3">
-
 ### Reverse Proxy
 
 - [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
@@ -404,28 +402,13 @@
 - [ChatGPT and MidJourney prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 
-</section>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SingularityLabs-ai/ChatGPT-Tool-List&type=Date)](https://star-history.com/#SingularityLabs-ai/ChatGPT-Tool-List&Date)
 
-<style>
-.level-3 {
-    padding-left: 5em;
-}
-</style>
 
 
 - ![BT](https://placehold.it/15/f03c15/000000?text=colored_text)AT
-
-<section class="level-3" style="padding-left:'135px';">
-
-### Reverse Proxy
-
-- [Reverse Proxy by chitalian](https://github.com/chitalian/revChatGPTServer)
-
-</section>
 
 
 
