@@ -421,7 +421,7 @@
 
 Welcome to my README!
 
-<section class="level-3" style="padding-left:'35em';">
+<section class="level-3" style="padding-left:'135px';">
 
 ### Reverse Proxy
 
@@ -429,8 +429,5 @@ Welcome to my README!
 
 </section>
 
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
 
 
