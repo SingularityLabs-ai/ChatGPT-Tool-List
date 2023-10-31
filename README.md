@@ -448,6 +448,16 @@
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
 
 
+### Hosted
+
+- [TypingMind](https://www.typingmind.com) - Alternative web UI.
+- [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
+- [Humata.ai](https://www.humata.ai) - Ask anything about your files.
+- [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
+- [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
+- [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
+
+
 ## Research, Papers & Articles
 
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
