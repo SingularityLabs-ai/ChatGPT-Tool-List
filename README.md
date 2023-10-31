@@ -328,11 +328,6 @@
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
 
-### Tutorials
-
-- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
-
-
 ### Emacs
 
 - [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
@@ -342,6 +337,55 @@
 - [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
 - [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
+
+## Plugins Store
+
+- [getit.ai](https://www.getit.ai/gpt-plugins): open plugin store for easy plugin installs.
+
+## AI Assistants
+
+- [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
+- [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
+- [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
+- [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
+- [gpt-runner](https://github.com/nicepkg/gpt-runner): Conversations with your files! Manage and run your AI presets!
+
+## Web Apps
+
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+
+## Desktop Apps
+
+- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+- [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
+- [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
+- [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
+
+## Twitter Bots
+
+- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
+
+## Mastodon Bots
+
+- [chatGPToot](https://github.com/skullzarmy/chatGPToot): Mastodon bot powered by OpenAI APIs including ChatGPT and DALL-E.
+
+## Research, Papers & Articles
+
+- [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
+
+## Documentations, Tutorials & Other Resources
+
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [ResearchGPT](https://github.com/mukulpatnaik/researchgpt): An open-source LLM based research assistant that allows you to have a conversation with a research paper
+- [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
+- 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
+- [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
+- [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
+- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
 
 ### Reverse Proxy
