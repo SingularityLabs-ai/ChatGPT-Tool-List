@@ -240,6 +240,27 @@
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [ChatGPT for Google](https://chatgpt4google.com) - Display ChatGPT response alongside search engine results.
+- [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Discover, share, import, and use the best prompts for ChatGPT.
+- [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Deep ChatGPT integrations in your browser.
+- [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - Download your ChatGPT history to PNG, PDF or a sharable link.
+- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) - Enhance the ChatGPT web UI with search history, create folders, export all chats, pin messages, and access thousands of prompts.
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Display ChatGPT summaries alongside Google search results, YouTube videos, etc.
+- [FancyGPT](https://chrome.google.com/webstore/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk) - Save and share beautiful ChatGPT snippets as images, PDFs, and text files.
+- [WritingMate.ai](https://chrome.google.com/webstore/detail/writingmateai-1-chatgpt-a/iihamopomflffiecicbgelncanmfionp) - Writing assistant.
+- [Summarize](https://github.com/clmnin/summarize.site) - Summarize websites.
+- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - Enable web access in ChatGPT.
+- [ChatGPT for Chrome & YouTube Summary](https://chrome.google.com/webstore/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) - Access ChatGPT from the Chrome toolbar, see transcripts of YouTube videos, and summarize YouTube videos.
+- [ChatGPT Enhancement Extension](https://github.com/sailist/chatgpt-enhancement-extension) - Enhancements to the ChatGPT web UI.
+- [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) - Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
+- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk with ChatGPT using your voice and listen to answers.
+- [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
+- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
+- [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
+- [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
+
 
 ### Firefox
 
