@@ -58,16 +58,19 @@
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 
-
 ### Google Docs
 
-- docGPT(https://github.com/cesarhuret/docGPT)
+- [docGPT](https://github.com/cesarhuret/docGPT)
+
+### Powerpoint
+
+- [gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)
+
 
 ### Search
 
 - [Connecting Bard, ChatGPT with the Internet](https://github.com/SingularityLabs-ai/beyond-bard-mini)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
-
 
 ### DevOps
 
