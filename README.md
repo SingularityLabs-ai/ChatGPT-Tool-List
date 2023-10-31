@@ -14,6 +14,10 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in JS/TS](https://github.com/SpecialAgency-Chat/TChatGPT)
 
+#### Java
+
+- [Unofficial API in Java](https://github.com/PlexPt/chatgpt-java)
+
 #### Dart
 
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
