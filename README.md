@@ -219,9 +219,11 @@
 ### Telegram
 
 - [Telegram Bot by Klingefjord](https://github.com/Klingefjord/chatgpt-telegram)
-- [Telegram Bot by franalgaba(serverless)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command!
+- [Telegram Bot by franalgaba(serverless)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda
 - [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot)
 - [Telegram Bot by n3d1117](https://github.com/n3d1117/chatgpt-telegram-bot)
+
 
 ### Twitter
 
