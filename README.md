@@ -417,7 +417,7 @@
 </style>
 
 
-- ![colored_text](https://placehold.it/15/f03c15/000000?text=+)
+- ![BT](https://placehold.it/15/f03c15/000000?text=colored_text)AT
 
 <section class="level-3" style="padding-left:'135px';">
 
