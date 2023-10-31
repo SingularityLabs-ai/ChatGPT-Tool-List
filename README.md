@@ -94,6 +94,10 @@
 - [Connecting Bard, ChatGPT with the Internet](https://github.com/SingularityLabs-ai/beyond-bard-mini)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 
+### Youtube
+
+- [youtube-autoreply](https://github.com/sheldonchiu/chatgpt-youtube-autoreply)
+
 ### DevOps
 
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
