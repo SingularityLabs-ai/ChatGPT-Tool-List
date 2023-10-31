@@ -384,6 +384,35 @@
 - [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
 
 
+## Apps
+
+- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - Access the ChatGPT web UI from the menu bar, Dock, or using a keyboard shortcut on macOS.
+- [MacGPT](https://www.macgpt.com) - Native macOS app with a global prompt and also a web UI wrapper.
+- [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - Native macOS app that can be shown with a keyboard shortcut.
+- [WriteMage](https://writemage.com) - Native macOS app to use ChatGPT in any app. ($)
+- [PaletteBrain](https://palettebrain.com) - Native macOS app to use ChatGPT in any app. ($)
+- [Machato](https://untimelyunicorn.gumroad.com/l/machato) - Native macOS app. ($)
+- [wonderGPT](https://wondergpt.co) - Native macOS app with a focus on simplicity.
+- [Petey](https://apps.apple.com/app/id6446047813) - Native iOS and watchOS app. ($)
+- [IntelliBar](https://intellibar.app) - macOS app that can be shown with a keyboard shortcut. ($ · Electron)
+- [Ask AI](https://sindresorhus.com/ask-ai) - Native watchOS app. ($)
+- [Chat Answer](https://github.com/bapaws/answer) - Native iOS and Android app.
+- [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) - Cross-platform web UI wrapper.
+- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - Cross-platform web UI wrapper. (Electron)
+- [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
+- [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
+- [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
+- [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
+- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
+- [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
+- [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
+- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
+- [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
+- [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
+- [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
+
+
 ## Research, Papers & Articles
 
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
