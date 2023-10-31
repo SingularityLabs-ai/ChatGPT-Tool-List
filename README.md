@@ -46,5 +46,28 @@
 
 - [ChatGPT Voice Conversation by platelminto]https://github.com/platelminto/chatgpt-conversation
 
+#### Image to Text
+
+- [SoloMReal / PictureToAnswer]https://github.com/SoloMReal/PictureToAnswer
+
+### CLI tools
+- [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
+- [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
+- [Assistant CLI](https://github.com/diciaup/assistant-cli)
+- [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
+- [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
+
+- [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
+
+
+### DevOps
+- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+- [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
+
+### Cybersecurity
+- [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
+- [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
+
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
