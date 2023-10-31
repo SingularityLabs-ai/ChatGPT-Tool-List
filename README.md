@@ -172,6 +172,12 @@
 ### JetBrains IDE
 
 - [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for IntelliJ Platform-Based IDEs
+
+
+### Wordpress
+
+- [gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+
 ---------------------------------------------------------------------------------------------------------
 
 ## Browser Extensions
