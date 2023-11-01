@@ -199,6 +199,11 @@
 - [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
 
+### Stackoverflow
+
+- [Golang Stackoverflow](https://github.com/samos123/chatgpt-blog)Prototype using chatGPT to anser Golang Stackoverflow questions
+
+
 ### Cybersecurity
 
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
@@ -511,6 +516,7 @@
 - [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
 - [CometLLM](https://github.com/comet-ml/comet-llm) - Open-source UI to log, visualize, and search your prompts, chains, and prompt variables.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
+- [easyChatGPT](https://github.com/LanLan69/easyChatGPT) - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
 
 
 ### Hosted
