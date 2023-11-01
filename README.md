@@ -52,6 +52,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): A browser extension that augments your ChatGPT prompts with web results.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
+- [summarize Youtube](https://github.com/S1monlol/summize)
 - [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot): A GPTChat based GitHub robot. dialogue/CR/etc..
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
@@ -73,6 +74,7 @@
 - [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
 - [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
+- [API Wrapper](https://github.com/timkmecl/chatgpt-api-wrapper)
 
 #### Java
 
@@ -188,6 +190,8 @@
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [llmcli](https://github.com/talwrii/llmcli)
+- [chatgpt-comparison](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)-Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
+
 
 ### DevOps
 
@@ -309,6 +313,9 @@
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
+- 🇨🇳 [ChatGPT-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+- 🇨🇳 [ChatGPT-on-wechat](https://github.com/hbchen121/WebChat)
+
 
 ### LINE
 
@@ -322,6 +329,11 @@
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord): Run your own GPTChat Discord bot, with a single command!
 - [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) - Discord bot.
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Discord bot.
+- [chatgpt-discord](https://github.com/TuringAI-Team/chatgpt-discord-bot)- Discord bot.
+- [maury-bot](https://github.com/evmckinney9/maury-bot) - Python Discord Bot, uses openai's gpt-3 for fun personalized responses and elevenlabs for voice synthesis
+
+
+
 
 
 ### Slack
@@ -339,6 +351,9 @@
 - [Telegram Bot by karfly](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 - [Telegram Bot by n3d1117](https://github.com/n3d1117/chatgpt-telegram-bot)
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
+- [chatgpt-telegram](https://github.com/F33RNI/GPT-Telegramus)- The best Telegram bot for ChatGPT, EdgeGPT (aka Bing AI), DALL-E, Bing Image generator and Bard with stream writing, requests with images (for Bard only), multiple languages, admin control, automatic proxy searcher, data logging and more!
+
+
 
 
 ### Twitter
@@ -377,6 +392,12 @@
 ### Powerpoint
 
 - [gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)
+
+### Resume 
+
+- [chatgpt-resume-builder](https://github.com/ofikodar/chatgpt-resume-builder)
+- [CoverGPT](https://github.com/mahfoozm/CoverGPT): Generate a personalized and formatted cover letter for a given job position, using your resume to add personalized details.
+
 
 ---------------------------------------------------------------------------------------------------------
 ## Search
@@ -509,6 +530,9 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
+- [chatgpt_webui](https://github.com/dotmet/chatgpt_webui)
+
+
 
 ## Research, Papers & Articles
 
@@ -580,6 +604,8 @@
 
 - [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
+- [negotiator-bots](https://github.com/evmckinney9/negotiator-bots)-Negotiation Simulator: A tool for testing negotiation strategies using language models. Pit buying and selling bots against each other and evaluate the effectiveness of different prompts
+
 
 
 ## Integrations
