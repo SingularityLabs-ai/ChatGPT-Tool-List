@@ -660,4 +660,14 @@
 - ![BT](https://placehold.it/15/f03c15/000000?text=colored_text)AT
 
 
+##
+
+### 🤔 Questions? Problems? Suggestions?
+
+#### Get help - [Discord 💬](https://discord.gg/jc4xtF58Ve)
+
+[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+
+##
+
 
